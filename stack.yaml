@@ -1,0 +1,8 @@
+packages:
+- '.'
+resolver: lts-14.7
+
+
+extra-deps: 
+- '../..'
+- '../../base'
